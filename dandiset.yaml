@@ -19,6 +19,8 @@ contributor:
 description: This is a test
 id: DANDI:000118/draft
 identifier: DANDI:000118
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000118/versions/draft/assets/
 name: user test
 schemaVersion: 0.4.4
 url: https://dandiarchive.org/dandiset/000118/draft
